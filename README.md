@@ -1,3 +1,8 @@
+FRONT END ONLY
+
+
+
+
 <img width="235" height="531" alt="screencapture-9ed2e7c32ffb4f288ce0fc504d35aac3-main-projects-builder-my-leaderboard-2026-02-13-18_27_49" src="https://github.com/user-attachments/assets/ba80523b-464b-4bbd-8cb6-b35a5552fe99" />
 <img width="235" height="655" alt="screencapture-9ed2e7c32ffb4f288ce0fc504d35aac3-main-projects-builder-my-wallet-2026-02-13-18_28_04" src="https://github.com/user-attachments/assets/8a766c4b-b973-492f-a8ef-918fb6046c99" />
 <img width="235" height="670" alt="screencapture-9ed2e7c32ffb4f288ce0fc504d35aac3-main-projects-builder-my-profile-2026-02-13-18_28_20" src="https://github.com/user-attachments/assets/235718c2-7eb1-484d-bbd1-c5ccd508e0c1" />
